@@ -1,0 +1,22 @@
+#content{
+    width: 500px;
+    height: 150px;
+    margin: 0 auto;
+    padding: 0px 20px 20px;
+    background: white;
+    border: 2px solid navy;
+}
+#content input{
+    float: left;
+    width: 15em;
+    margin-bottom: .5em;
+}
+label{
+    width: 10em;
+    padding-right: 1em;
+    float: left;
+}
+#button input{
+    float: left;
+    margin-bottom: .5em;
+}
